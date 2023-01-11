@@ -10,3 +10,6 @@ a continuación creo el archivo README.md y hago el segundo commit
     git branch exp
 
 ahora dentro de esta rama hago el siguiente push C
+
+una vez subido el commit E
+ vamos a subir desde aquí el commit D
